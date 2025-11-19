@@ -7,6 +7,8 @@ Soon, features for viewing and editing text, as well as viewing images, are plan
 
 
 
+
+
 How To Install?
  option 1: 
  download latest bin file from release and install it via esp flash_download_tool
@@ -22,3 +24,8 @@ if you have launcher install in your cardputer you can install it via sd card , 
 
 see info here https://github.com/bmorcelli/Launcher
 
+
+
+
+How To Use?
+vary simple!!  ESC key to go back!  Enter Key to select  -/+ keys to volume up or down
