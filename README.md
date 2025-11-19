@@ -1,38 +1,40 @@
 # BombermanOS
-
- <img src="gitFiles/BombermanOS_logo.png?raw=true">
-
-BombermanOS is software for cardputerADV, primarily designed for media playback and file display.
-
-Currently, it can play MP3 files, and in the future, I hope to enable playback via Bluetooth.
-
-Soon, features for viewing and editing text, as well as viewing images, are planned.
+<img src="gitFiles/BombermanOS_logo.png?raw=true">
+BombermanOS is a lightweight operating system for the CardputerADV, designed primarily for media playback and file browsing.
+Currently, it supports MP3 playback. In the future, I plan to add Bluetooth audio support.
+Upcoming features include text viewing and editing, as well as image display capabilities.
 
 
+## 🚀 Installation Options
+
+* Option 1: Manual Flashing
+Download the latest .bin file from the Releases section and flash it using the ESP Flash Download Tool.
+Instructions and download link: [ESP Flash Download Tool](https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool.html)
+* Option 2: Recommended – M5Burner
+Use M5Burner:
+Select Cardputer from the sidebar, search for BombermanOS, and install it directly.
+* Option 3: Using the Launcher
+If you already have the Launcher installed on your Cardputer, you can install BombermanOS via SD card:
+ Download the latest .bin file
+ Copy it to your SD card
+ Use the Launcher to install it
+More info: [Launcher GitHub](https://github.com/bmorcelli/Launcher)
+
+🎮 How to Use
+- A microSD card is required. The file system must be FAT (i think FAT32 will work too). NTFS and exFAT are not supported. (New card (Fast 
+How to format to FAT https://www.instructables.com/Format-USB-Flash-Drive-to-FATFAT16-not-FAT32/
+- Navigation is simple:
+- ESC → Go back
+- Enter → Select
+- - / + → Adjust volume
+
+🛠️ Planned Features
+- [ ] File management: delete, copy, and move files
+- [ ] Text editor: create and edit .txt files
+- [ ] Timer functionality
+- [ ] Image viewer
+
+💡 Suggestions Welcome!
+If you have practical ideas or feature requests, feel free to share!
 
 
-
-## How To Install
-* option 1: 
- download latest bin file from release and install it via esp flash_download_tool
- how to use and download see here [Esp Flash Download_Tool](https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool.html)
-
- 
-
-* option 2: (recomended)
-install it via M5Burner Select Cardputer in the sidebar and search for BombermanOS
-see info here [M5 Burner](https://docs.m5stack.com/en/uiflow/m5burner/intro)
-
-* option 3 :
-install  it via luncher 
-if you have launcher install in your cardputer you can install it via sd card , download the latest bin file and put it in the sd card! see info here [Launcher Github](https://github.com/bmorcelli/Launcher)
-
-
-
-
-
-
-## How To Use
-* you must Have microSD card the file system need to be FAT (FAT32 may be work but i dont test it if some 1 test it it tell me!!) NTFS or EXFAT not suppurted!! see here https://www.instructables.com/Format-USB-Flash-Drive-to-FATFAT16-not-FAT32/
-* navegate
-very simple!!  ESC key to go back!  Enter Key to select  -/+ keys to volume up or down
