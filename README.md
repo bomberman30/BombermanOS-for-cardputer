@@ -28,6 +28,10 @@ How to format to FAT https://www.instructables.com/Format-USB-Flash-Drive-to-FAT
 - ESC → Go back
 - Enter → Select
 - - / + → Adjust volume
+* in file system
+
+- ENTER open file menu
+- -> fast execute file
 
 🛠️ Planned Features
 - [ ] File management: delete, copy, and move files
