@@ -41,6 +41,12 @@ How to format to FAT https://www.instructables.com/Format-USB-Flash-Drive-to-FAT
 - ESC open Menu
 
 
+* in Media Player
+- [ back 7 second
+- ] forward 7 second
+- -> move next song
+- <- move back song
+
 🛠️ Planned Features
 - [X] File management: delete, copy,  files DONE!!  (move files is little tricky with folders with files)
 - [X] Text editor: view create and edit .txt .json .conf files DONE!!
