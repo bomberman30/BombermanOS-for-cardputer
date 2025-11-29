@@ -52,7 +52,7 @@ How to format to FAT https://www.instructables.com/Format-USB-Flash-Drive-to-FAT
 - [X] Text editor: view create and edit .txt .json .conf files DONE!!
 - [ ] Timer functionality
 - [ ] Step's Counter!
-- [ ] Image viewer
+- [x] Image viewer (PNG ,jpeg is next)
 
 💡 Suggestions Welcome!
 If you have practical ideas or feature requests, feel free to share!
