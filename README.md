@@ -48,11 +48,11 @@ How to format to FAT https://www.instructables.com/Format-USB-Flash-Drive-to-FAT
 - <- move back song
 
 🛠️ Planned Features
-- [X] File management: delete, copy,  files DONE!!  (move files is little tricky with folders with files)
+- [X] File management: delete, copy,  files DONE!! 
 - [X] Text editor: view create and edit .txt .json .conf files DONE!!
-- [ ] Timer functionality
-- [ ] Step's Counter!
-- [x] Image viewer (PNG ,jpeg is next)
+- [X] Timer functionality
+- [X] Step's Counter!
+- [x] Image viewer (PNG ,jpeg is next) can zoom in and out and pan image by arrow keys and +/- keys
 - [x] Notes for daily use
 💡 Suggestions Welcome!
 If you have practical ideas or feature requests, feel free to share!
