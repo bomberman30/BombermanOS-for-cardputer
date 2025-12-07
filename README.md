@@ -2,7 +2,7 @@
 
 <img src="gitFiles/SplashImage.png?raw=true">
 AdvanceOS is a lightweight operating system for the CardputerADV, designed primarily for media playback and file browsing.
-Currently, it supports MP3 playback. In the future, Text editor and lots's of cool stuff!
+Currently, it supports MP3 and WAV playback. In the future, Text editor and lots's of cool stuff!
 Upcoming features include text viewing and editing, as well as image display capabilities.
 
 
@@ -54,6 +54,8 @@ How to format to FAT https://www.instructables.com/Format-USB-Flash-Drive-to-FAT
 - [X] Step's Counter!
 - [x] Image viewer (PNG ,jpeg is next) can zoom in and out and pan image by arrow keys and +/- keys
 - [x] Notes for daily use
+- [x] mic record to SD card
+
 💡 Suggestions Welcome!
 If you have practical ideas or feature requests, feel free to share!
 
