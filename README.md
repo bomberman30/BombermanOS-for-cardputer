@@ -52,8 +52,8 @@ How to format to FAT https://www.instructables.com/Format-USB-Flash-Drive-to-FAT
 - [X] Text editor: view create and edit .txt .json .conf files DONE!!
 - [X] Timer functionality
 - [X] Step's Counter!
-- [x] Image viewer (PNG ,in jpeg have some problem) can zoom in and out and pan image by arrow keys and +/- keys(need small size PIC)
-- [x] GIF viewer work with animation (need small size GIF ram limited)
+- [x] Image viewer (PNG ,in jpeg have some problem) can zoom in and out and pan image by arrow keys and +/- keys(need small size PIC limited by Cardputer RAM)
+- [x] GIF viewer work with animation (need small size GIF ,Cardputer RAM is limited)
 - [x] Notes for daily use
 - [x] mic record to SD card
 - [x] ESP project remote control see more info [here](https://github.com/bomberman30/AdvanceOS-for-cardputer/wiki)
