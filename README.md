@@ -1,6 +1,6 @@
 # AdvanceOS
 
-<img src="gitFilesSplash2.png?raw=true">
+<img src="gitFiles/Splash2.png?raw=true">
 
 <img src="gitFiles/SplashImage.png?raw=true">
 AdvanceOS is a lightweight operating system for the CardputerADV, designed primarily for media playback and file browsing.
